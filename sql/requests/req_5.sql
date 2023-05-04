@@ -1,0 +1,1 @@
+SELECT max(EU_Sales) FROM sale;
