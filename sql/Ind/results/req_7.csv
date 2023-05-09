@@ -1,0 +1,584 @@
+┌────────────────────────────────────────┬───────────────────┐
+│               Publisher                │    Total_Sales    │
+├────────────────────────────────────────┼───────────────────┤
+│ Nintendo                               │ 32158.0799999998  │
+│ Electronic Arts                        │ 19985.7600000004  │
+│ Activision                             │ 13094.2800000001  │
+│ Sony Computer Entertainment            │ 10935.0           │
+│ Ubisoft                                │ 8544.96000000023  │
+│ Take-Two Interactive                   │ 7191.72000000006  │
+│ THQ                                    │ 6133.85999999998  │
+│ Konami Digital Entertainment           │ 5105.52000000016  │
+│ Sega                                   │ 4913.82000000014  │
+│ Namco Bandai Games                     │ 4573.62000000016  │
+│ Microsoft Game Studios                 │ 4424.22000000004  │
+│ Capcom                                 │ 3616.02000000005  │
+│ Atari                                  │ 2829.96000000002  │
+│ Warner Bros. Interactive Entertainment │ 2770.01999999998  │
+│ Square Enix                            │ 2613.23999999999  │
+│ Disney Interactive Studios             │ 2159.27999999999  │
+│ Eidos Interactive                      │ 1781.63999999998  │
+│ LucasArts                              │ 1572.12           │
+│ Bethesda Softworks                     │ 1478.52           │
+│ Midway Games                           │ 1257.29999999999  │
+│ Acclaim Entertainment                  │ 1154.51999999999  │
+│ Vivendi Games                          │ 1047.78           │
+│ SquareSoft                             │ 1037.7            │
+│ 505 Games                              │ 1006.38           │
+│ Tecmo Koei                             │ 963.899999999975  │
+│ Codemasters                            │ 861.659999999994  │
+│ Virgin Interactive                     │ 789.659999999998  │
+│ Unknown                                │ 623.879999999986  │
+│ Enix Corporation                       │ 607.319999999999  │
+│ Deep Silver                            │ 462.06            │
+│ GT Interactive                         │ 454.14            │
+│ D3Publisher                            │ 434.339999999994  │
+│ Sony Computer Entertainment Europe     │ 430.019999999999  │
+│ Hudson Soft                            │ 414.179999999998  │
+│ MTV Games                              │ 377.46            │
+│ Universal Interactive                  │ 319.86            │
+│ Banpresto                              │ 313.199999999999  │
+│ Rising Star Games                      │ 311.58            │
+│ Infogrames                             │ 294.12            │
+│ Majesco Entertainment                  │ 289.44            │
+│ Hasbro Interactive                     │ 273.96            │
+│ N/A                                    │ 267.84            │
+│ Nippon Ichi Software                   │ 257.040000000001  │
+│ 989 Studios                            │ 239.76            │
+│ Zoo Digital Publishing                 │ 231.66            │
+│ Atlus                                  │ 229.320000000002  │
+│ Level 5                                │ 219.06            │
+│ Empire Interactive                     │ 203.220000000001  │
+│ ASCII Entertainment                    │ 196.020000000001  │
+│ 3DO                                    │ 182.16            │
+│ Crave Entertainment                    │ 178.74            │
+│ RedOctane                              │ 156.24            │
+│ TDK Mediactive                         │ 149.58            │
+│ Mindscape                              │ 139.32            │
+│ Global Star                            │ 137.7             │
+│ Focus Home Interactive                 │ 135.18            │
+│ Fox Interactive                        │ 133.02            │
+│ Psygnosis                              │ 130.86            │
+│ Activision Value                       │ 125.28            │
+│ Ignition Entertainment                 │ 122.76            │
+│ Interplay                              │ 119.88            │
+│ SouthPeak Games                        │ 114.3             │
+│ Spike                                  │ 110.7             │
+│ Red Orb                                │ 94.3200000000001  │
+│ Parker Bros.                           │ 89.4600000000001  │
+│ Tomy Corporation                       │ 89.4599999999999  │
+│ BAM! Entertainment                     │ 89.1000000000001  │
+│ Zoo Games                              │ 86.76             │
+│ Imagic                                 │ 86.76             │
+│ Arena Entertainment                    │ 84.96             │
+│ Koch Media                             │ 84.78             │
+│ City Interactive                       │ 82.9799999999998  │
+│ Ubisoft Annecy                         │ 80.2799999999999  │
+│ Nordic Games                           │ 79.9199999999999  │
+│ Destineer                              │ 78.4800000000001  │
+│ Play It                                │ 77.5800000000001  │
+│ PQube                                  │ 76.8599999999998  │
+│ Marvelous Interactive                  │ 75.0600000000004  │
+│ Palcom                                 │ 75.06             │
+│ ChunSoft                               │ 73.2600000000001  │
+│ Idea Factory                           │ 72.3600000000009  │
+│ Game Factory                           │ 68.2200000000001  │
+│ Kadokawa Shoten                        │ 67.8600000000002  │
+│ Gotham Games                           │ 66.96             │
+│ GSP                                    │ 66.4200000000001  │
+│ Natsume                                │ 66.42             │
+│ Square                                 │ 65.52             │
+│ Ocean                                  │ 64.98             │
+│ DTP Entertainment                      │ 64.6199999999999  │
+│ Sony Online Entertainment              │ 63.54             │
+│ SCi                                    │ 63.36             │
+│ Mattel Interactive                     │ 63.1800000000001  │
+│ Oxygen Interactive                     │ 62.2800000000001  │
+│ Takara                                 │ 62.1              │
+│ Maxis                                  │ 61.02             │
+│ Titus                                  │ 59.76             │
+│ Black Bean Games                       │ 59.2200000000001  │
+│ Valve Software                         │ 58.14             │
+│ GungHo                                 │ 56.7              │
+│ Coleco                                 │ 55.0800000000001  │
+│ Avanquest                              │ 54.0000000000001  │
+│ Human Entertainment                    │ 54.0              │
+│ Scholastic Inc.                        │ 52.38             │
+│ Mojang                                 │ 52.02             │
+│ Taito                                  │ 51.12             │
+│ JVC                                    │ 50.4              │
+│ Ghostlight                             │ 50.2200000000001  │
+│ Sammy Corporation                      │ 49.14             │
+│ Telltale Games                         │ 48.9600000000001  │
+│ Midas Interactive Entertainment        │ 48.96             │
+│ Takara Tomy                            │ 48.6              │
+│ Imagineer                              │ 47.6999999999999  │
+│ Alchemist                              │ 47.3400000000003  │
+│ SNK                                    │ 46.62             │
+│ NCSoft                                 │ 46.62             │
+│ Rondomedia                             │ 46.4400000000001  │
+│ Compile                                │ 44.28             │
+│ Kalypso Media                          │ 44.1              │
+│ Marvelous Entertainment                │ 41.94             │
+│ Red Storm Entertainment                │ 41.76             │
+│ UEP Systems                            │ 40.5              │
+│ Mastiff                                │ 40.1400000000001  │
+│ Enterbrain                             │ 40.14             │
+│ Kemco                                  │ 39.96             │
+│ Video System                           │ 39.24             │
+│ Little Orbit                           │ 36.72             │
+│ Microprose                             │ 36.36             │
+│ ASC Games                              │ 36.36             │
+│ RTL                                    │ 36.0              │
+│ Success                                │ 35.28             │
+│ Nobilis                                │ 34.9200000000001  │
+│ Jaleco                                 │ 34.92             │
+│ Agetec                                 │ 34.92             │
+│ 20th Century Fox Video Games           │ 34.92             │
+│ Zushi Games                            │ 34.02             │
+│ Metro 3D                               │ 33.12             │
+│ Rocket Company                         │ 32.76             │
+│ System 3 Arcade Software               │ 32.3999999999999  │
+│ Valve                                  │ 31.32             │
+│ Mastertronic                           │ 31.14             │
+│ Crystal Dynamics                       │ 30.78             │
+│ Avanquest Software                     │ 30.42             │
+│ Hudson Entertainment                   │ 30.4199999999999  │
+│ Accolade                               │ 30.24             │
+│ Xplosiv                                │ 29.52             │
+│ From Software                          │ 29.3400000000001  │
+│ 5pb                                    │ 29.34             │
+│ Hello Games                            │ 28.8              │
+│ Touchstone                             │ 28.44             │
+│ PopCap Games                           │ 28.26             │
+│ LEGO Media                             │ 28.08             │
+│ Storm City Games                       │ 28.08             │
+│ Westwood Studios                       │ 27.9              │
+│ Laguna                                 │ 27.9              │
+│ JoWood Productions                     │ 26.82             │
+│ Arc System Works                       │ 26.6400000000001  │
+│ Knowledge Adventure                    │ 26.46             │
+│ Genki                                  │ 26.28             │
+│ XS Games                               │ 26.28             │
+│ Pinnacle                               │ 25.56             │
+│ Tigervision                            │ 25.56             │
+│ Rage Software                          │ 25.56             │
+│ GameMill Entertainment                 │ 24.84             │
+│ Slightly Mad Studios                   │ 24.84             │
+│ Compile Heart                          │ 24.6599999999999  │
+│ NewKidCo                               │ 23.94             │
+│ FuRyu                                  │ 23.76             │
+│ Milestone S.r.l.                       │ 23.04             │
+│ Aqua Plus                              │ 22.5              │
+│ Brash Entertainment                    │ 22.14             │
+│ Russel                                 │ 21.78             │
+│ Falcom Corporation                     │ 21.78             │
+│ Playlogic Game Factory                 │ 21.6              │
+│ Black Label Games                      │ 21.6              │
+│ Gathering of Developers                │ 21.42             │
+│ Sony Computer Entertainment America    │ 21.24             │
+│ BMG Interactive Entertainment          │ 21.24             │
+│ Aruze Corp                             │ 21.24             │
+│ Trion Worlds                           │ 20.7              │
+│ Jester Interactive                     │ 20.7              │
+│ Gremlin Interactive Ltd                │ 19.8              │
+│ Gust                                   │ 19.8              │
+│ O-Games                                │ 19.44             │
+│ Mentor Interactive                     │ 19.26             │
+│ Acquire                                │ 19.26             │
+│ Epoch                                  │ 18.9              │
+│ Telegames                              │ 18.54             │
+│ Big Ben Interactive                    │ 18.0              │
+│ IE Institute                           │ 17.28             │
+│ UFO Interactive                        │ 17.28             │
+│ SNK Playmore                           │ 17.28             │
+│ Broccoli                               │ 17.28             │
+│ Nippon Columbia                        │ 17.1              │
+│ Jorudan                                │ 17.1              │
+│ Sunsoft                                │ 17.1              │
+│ DreamCatcher Interactive               │ 17.1              │
+│ Screenlife                             │ 16.56             │
+│ Funbox Media                           │ 16.38             │
+│ Xseed Games                            │ 16.2              │
+│ CTO SpA                                │ 16.2              │
+│ Victor Interactive                     │ 16.02             │
+│ Destination Software, Inc              │ 15.84             │
+│ TalonSoft                              │ 15.66             │
+│ Quelle                                 │ 15.66             │
+│ mixi, Inc                              │ 15.48             │
+│ Mud Duck Productions                   │ 15.3              │
+│ Bigben Interactive                     │ 15.12             │
+│ Ackkstudios                            │ 15.12             │
+│ Conspiracy Entertainment               │ 15.12             │
+│ Mystique                               │ 14.76             │
+│ NovaLogic                              │ 14.76             │
+│ Square EA                              │ 14.4              │
+│ Harmonix Music Systems                 │ 14.4              │
+│ NEC Interchannel                       │ 14.04             │
+│ Men-A-Vision                           │ 13.86             │
+│ Nihon Falcom Corporation               │ 13.86             │
+│ Paradox Interactive                    │ 13.6799999999999  │
+│ Pioneer LDC                            │ 13.32             │
+│ Gamebridge                             │ 13.14             │
+│ ArtDink                                │ 13.14             │
+│ Starfish                               │ 12.96             │
+│ Quest                                  │ 12.78             │
+│ Data Age                               │ 12.78             │
+│ Home Entertainment Suppliers           │ 12.78             │
+│ Illusion Softworks                     │ 12.6              │
+│ Wanadoo                                │ 11.7              │
+│ Media Rings                            │ 11.7              │
+│ Sting                                  │ 11.7              │
+│ Elf                                    │ 11.52             │
+│ Astragon                               │ 11.52             │
+│ Universal Gamex                        │ 11.34             │
+│ Seta Corporation                       │ 11.34             │
+│ Foreign Media Games                    │ 11.34             │
+│ Wizard Video Games                     │ 11.16             │
+│ TDK Core                               │ 11.16             │
+│ Aspyr                                  │ 11.16             │
+│ Idea Factory International             │ 10.98             │
+│ Prototype                              │ 10.9799999999999  │
+│ Nordcurrent                            │ 10.62             │
+│ Asylum Entertainment                   │ 10.62             │
+│ ESP                                    │ 10.62             │
+│ Mumbo Jumbo                            │ 10.44             │
+│ Kadokawa Games                         │ 10.44             │
+│ CPG Products                           │ 9.72              │
+│ AQ Interactive                         │ 9.53999999999999  │
+│ BPS                                    │ 9.36              │
+│ The Adventure Company                  │ 9.18000000000001  │
+│ Answer Software                        │ 9.0               │
+│ Hect                                   │ 9.0               │
+│ Rebellion                              │ 8.82              │
+│ Popcorn Arcade                         │ 8.81999999999999  │
+│ Pack In Soft                           │ 8.64              │
+│ Activision Blizzard                    │ 8.64              │
+│ Swing! Entertainment                   │ 8.64              │
+│ Avalon Interactive                     │ 8.64              │
+│ Ultravision                            │ 8.46              │
+│ Irem Software Engineering              │ 8.27999999999998  │
+│ Valcon Games                           │ 8.1               │
+│ Angel Studios                          │ 7.92              │
+│ PlayV                                  │ 7.92              │
+│ Shogakukan                             │ 7.92              │
+│ Aksys Games                            │ 7.91999999999999  │
+│ Tetris Online                          │ 7.74              │
+│ NEC                                    │ 7.74              │
+│ TYO                                    │ 7.56              │
+│ Electronic Arts Victor                 │ 7.56              │
+│ Jack of All Games                      │ 7.55999999999999  │
+│ bitComposer Games                      │ 7.38000000000001  │
+│ Magical Company                        │ 7.38              │
+│ NCS                                    │ 7.2               │
+│ P2 Games                               │ 7.2               │
+│ Microids                               │ 7.19999999999999  │
+│ MTO                                    │ 7.19999999999999  │
+│ ValuSoft                               │ 7.02              │
+│ 989 Sports                             │ 6.84              │
+│ Graffiti                               │ 6.84              │
+│ Blast! Entertainment Ltd               │ 6.83999999999999  │
+│ Performance Designed Products          │ 6.48              │
+│ New                                    │ 6.48              │
+│ Hip Interactive                        │ 6.48              │
+│ Time Warner Interactive                │ 6.3               │
+│ Magix                                  │ 6.3               │
+│ DSI Games                              │ 6.29999999999999  │
+│ Reef Entertainment                     │ 6.12              │
+│ ITT Family Games                       │ 6.12              │
+│ Starpath Corp.                         │ 5.94              │
+│ U.S. Gold                              │ 5.93999999999999  │
+│ Benesse                                │ 5.93999999999999  │
+│ Cave                                   │ 5.93999999999999  │
+│ Yacht Club Games                       │ 5.76              │
+│ Indie Games                            │ 5.76              │
+│ Evolved Games                          │ 5.75999999999999  │
+│ Agatsuma Entertainment                 │ 5.58              │
+│ CokeM Interactive                      │ 5.58              │
+│ CBS Electronics                        │ 5.58              │
+│ Neko Entertainment                     │ 5.57999999999999  │
+│ Hackberry                              │ 5.57999999999999  │
+│ Mad Catz                               │ 5.4               │
+│ Rebellion Developments                 │ 5.4               │
+│ Hamster Corporation                    │ 5.4               │
+│ Game Life                              │ 5.4               │
+│ Media Factory                          │ 5.22              │
+│ Core Design Ltd.                       │ 5.22              │
+│ Wargaming.net                          │ 5.22              │
+│ Data Design Interactive                │ 5.22              │
+│ Playmates                              │ 5.04              │
+│ Nichibutsu                             │ 5.04              │
+│ Daedalic                               │ 5.04              │
+│ Excalibur Publishing                   │ 5.04              │
+│ Tru Blu Entertainment                  │ 5.03999999999999  │
+│ Syscom                                 │ 4.86              │
+│ Vic Tokai                              │ 4.86              │
+│ Telstar                                │ 4.86              │
+│ Culture Brain                          │ 4.86              │
+│ Liquid Games                           │ 4.86              │
+│ ASCII Media Works                      │ 4.85999999999999  │
+│ CyberFront                             │ 4.85999999999998  │
+│ Nippon Telenet                         │ 4.68              │
+│ Vir2L Studios                          │ 4.68              │
+│ Pacific Century Cyber Works            │ 4.68              │
+│ Axela                                  │ 4.5               │
+│ Paon                                   │ 4.5               │
+│ Asgard                                 │ 4.49999999999999  │
+│ Xing Entertainment                     │ 4.32              │
+│ Yeti                                   │ 4.31999999999999  │
+│ Detn8 Games                            │ 4.14              │
+│ Asmik Ace Entertainment                │ 4.14              │
+│ American Softworks                     │ 4.14              │
+│ Essential Games                        │ 4.14              │
+│ Daito                                  │ 4.14              │
+│ CCP                                    │ 3.96              │
+│ Bomb                                   │ 3.96              │
+│ Vatical Entertainment                  │ 3.96              │
+│ O3 Entertainment                       │ 3.96              │
+│ System 3                               │ 3.96              │
+│ Quinrose                               │ 3.95999999999998  │
+│ Tommo                                  │ 3.78              │
+│ Mercury Games                          │ 3.78              │
+│ Sears                                  │ 3.78              │
+│ On Demand                              │ 3.78              │
+│ Slitherine Software                    │ 3.78              │
+│ Micro Cabin                            │ 3.6               │
+│ Merscom LLC                            │ 3.6               │
+│ Gamecock                               │ 3.6               │
+│ Alternative Software                   │ 3.6               │
+│ Funsta                                 │ 3.6               │
+│ Funcom                                 │ 3.6               │
+│ CDV Software Entertainment             │ 3.6               │
+│ SSI                                    │ 3.42              │
+│ Phenomedia                             │ 3.42              │
+│ DHM Interactive                        │ 3.24              │
+│ Media Works                            │ 3.24              │
+│ Happinet                               │ 3.24              │
+│ Sunrise Interactive                    │ 3.06              │
+│ Asmik Corp                             │ 3.06              │
+│ Panther Software                       │ 3.06              │
+│ Adeline Software                       │ 3.06              │
+│ Tivola                                 │ 3.06              │
+│ Xicat Interactive                      │ 3.06              │
+│ White Park Bay Software                │ 2.88              │
+│ Aques                                  │ 2.88              │
+│ Gainax Network Systems                 │ 2.88              │
+│ Data East                              │ 2.7               │
+│ EA Games                               │ 2.7               │
+│ Global A Entertainment                 │ 2.7               │
+│ Comfort                                │ 2.7               │
+│ Tripwire Interactive                   │ 2.52              │
+│ Sony Music Entertainment               │ 2.52              │
+│ Imadio                                 │ 2.52              │
+│ General Entertainment                  │ 2.52              │
+│ Game Arts                              │ 2.52              │
+│ Daedalic Entertainment                 │ 2.52              │
+│ HMH Interactive                        │ 2.52              │
+│ Kaga Create                            │ 2.52              │
+│ responDESIGN                           │ 2.34              │
+│ Myelin Media                           │ 2.34              │
+│ SCS Software                           │ 2.34              │
+│ Moss                                   │ 2.34              │
+│ Havas Interactive                      │ 2.34              │
+│ DreamWorks Interactive                 │ 2.34              │
+│ Insomniac Games                        │ 2.16              │
+│ T&E Soft                               │ 2.16              │
+│ SPS                                    │ 2.16              │
+│ NDA Productions                        │ 2.16              │
+│ FunSoft                                │ 2.16              │
+│ Flight-Plan                            │ 2.16              │
+│ Bohemia Interactive                    │ 2.16              │
+│ TopWare Interactive                    │ 2.16              │
+│ LSP Games                              │ 2.16              │
+│ dramatic create                        │ 1.98              │
+│ Tradewest                              │ 1.98              │
+│ Ascaron Entertainment GmbH             │ 1.98              │
+│ Pack-In-Video                          │ 1.98              │
+│ 10TACLE Studios                        │ 1.98              │
+│ TOHO                                   │ 1.98              │
+│ Simon & Schuster Interactive           │ 1.98              │
+│ PopTop Software                        │ 1.98              │
+│ Gameloft                               │ 1.98              │
+│ TGL                                    │ 1.8               │
+│ Interchannel                           │ 1.8               │
+│ Creative Core                          │ 1.8               │
+│ 1C Company                             │ 1.8               │
+│ inXile Entertainment                   │ 1.8               │
+│ Type-Moon                              │ 1.8               │
+│ PM Studios                             │ 1.8               │
+│ Interplay Productions                  │ 1.8               │
+│ Image Epoch                            │ 1.8               │
+│ GameTek                                │ 1.8               │
+│ Enjoy Gaming ltd.                      │ 1.8               │
+│ Groove Games                           │ 1.62              │
+│ Edia                                   │ 1.62              │
+│ Athena                                 │ 1.62              │
+│ Arika                                  │ 1.62              │
+│ Phantom EFX                            │ 1.62              │
+│ Origin Systems                         │ 1.62              │
+│ Nippon Amuse                           │ 1.62              │
+│ Hearty Robin                           │ 1.62              │
+│ Griffin International                  │ 1.62              │
+│ Culture Publishers                     │ 1.62              │
+│ Yuke's                                 │ 1.44              │
+│ KID                                    │ 1.44              │
+│ 7G//AMES                               │ 1.44              │
+│ MC2 Entertainment                      │ 1.44              │
+│ Iceberg Interactive                    │ 1.44              │
+│ Crimson Cow                            │ 1.44              │
+│ Flashpoint Games                       │ 1.44              │
+│ Cloud Imperium Games Corporation       │ 1.44              │
+│ Seventh Chord                          │ 1.44              │
+│ Mitsui                                 │ 1.44              │
+│ Milestone                              │ 1.44              │
+│ Glams                                  │ 1.44              │
+│ Abylight                               │ 1.44              │
+│ Princess Soft                          │ 1.26              │
+│ Licensed 4U                            │ 1.26              │
+│ Encore                                 │ 1.26              │
+│ Warp                                   │ 1.26              │
+│ Revolution Software                    │ 1.26              │
+│ Misawa                                 │ 1.26              │
+│ Locus                                  │ 1.26              │
+│ Evolution Games                        │ 1.26              │
+│ Elite                                  │ 1.26              │
+│ Coconuts Japan                         │ 1.26              │
+│ Aria                                   │ 1.26              │
+│ Altron                                 │ 1.26              │
+│ Office Create                          │ 1.08              │
+│ iWin                                   │ 1.08              │
+│ Zenrin                                 │ 1.08              │
+│ Yumedia                                │ 1.08              │
+│ Virtual Play Games                     │ 1.08              │
+│ Sonnet                                 │ 1.08              │
+│ Imax                                   │ 1.08              │
+│ HAL Laboratory                         │ 1.08              │
+│ Grand Prix Games                       │ 1.08              │
+│ Fortyfive                              │ 1.08              │
+│ Experience Inc.                        │ 1.08              │
+│ Ecole                                  │ 1.08              │
+│ DigiCube                               │ 1.08              │
+│ System Soft                            │ 0.900000000000001 │
+│ Minato Station                         │ 0.900000000000001 │
+│ GN Software                            │ 0.900000000000001 │
+│ Focus Multimedia                       │ 0.900000000000001 │
+│ Sweets                                 │ 0.9               │
+│ Mamba Games                            │ 0.9               │
+│ Lexicon Entertainment                  │ 0.9               │
+│ Easy Interactive                       │ 0.9               │
+│ Dusenberry Martin Racing               │ 0.9               │
+│ Big Fish Games                         │ 0.9               │
+│ WayForward Technologies                │ 0.9               │
+│ Vap                                    │ 0.9               │
+│ The Learning Company                   │ 0.9               │
+│ TechnoSoft                             │ 0.9               │
+│ Team17 Software                        │ 0.9               │
+│ Pow                                    │ 0.9               │
+│ Pony Canyon                            │ 0.9               │
+│ Phantagram                             │ 0.9               │
+│ Navarre Corp                           │ 0.9               │
+│ Monte Christo Multimedia               │ 0.9               │
+│ Milestone S.r.l                        │ 0.9               │
+│ MediaQuest                             │ 0.9               │
+│ Max Five                               │ 0.9               │
+│ Marvel Entertainment                   │ 0.9               │
+│ Ertain                                 │ 0.9               │
+│ Alawar Entertainment                   │ 0.9               │
+│ imageepoch Inc.                        │ 0.72              │
+│ G.Rev                                  │ 0.72              │
+│ Yamasa Entertainment                   │ 0.72              │
+│ Gakken                                 │ 0.72              │
+│ Devolver Digital                       │ 0.72              │
+│ Alvion                                 │ 0.72              │
+│ Summitsoft                             │ 0.72              │
+│ Societa                                │ 0.72              │
+│ Riverhillsoft                          │ 0.72              │
+│ Playmore                               │ 0.72              │
+│ MLB.com                                │ 0.72              │
+│ Legacy Interactive                     │ 0.72              │
+│ Kool Kizz                              │ 0.72              │
+│ Ivolgamus                              │ 0.72              │
+│ 49Games                                │ 0.72              │
+│ 2D Boy                                 │ 0.72              │
+│ id Software                            │ 0.54              │
+│ Views                                  │ 0.54              │
+│ Tryfirst                               │ 0.54              │
+│ Sunflowers                             │ 0.54              │
+│ Strategy First                         │ 0.54              │
+│ Paon Corporation                       │ 0.54              │
+│ Number None                            │ 0.54              │
+│ Nexon                                  │ 0.54              │
+│ NetRevo                                │ 0.54              │
+│ Maximum Family Games                   │ 0.54              │
+│ Kokopeli Digital Studios               │ 0.54              │
+│ Kids Station                           │ 0.54              │
+│ Kando Games                            │ 0.54              │
+│ Kamui                                  │ 0.54              │
+│ KSS                                    │ 0.54              │
+│ Just Flight                            │ 0.54              │
+│ Intergrow                              │ 0.54              │
+│ HuneX                                  │ 0.54              │
+│ Her Interactive                        │ 0.54              │
+│ Headup Games                           │ 0.54              │
+│ Fuji                                   │ 0.54              │
+│ FuRyu Corporation                      │ 0.54              │
+│ Fields                                 │ 0.54              │
+│ Extreme Entertainment Group            │ 0.54              │
+│ Dorart                                 │ 0.54              │
+│ Datam Polystar                         │ 0.54              │
+│ Cygames                                │ 0.54              │
+│ BushiRoad                              │ 0.54              │
+│ Blue Byte                              │ 0.54              │
+│ Berkeley                               │ 0.54              │
+│ Aerosoft                               │ 0.54              │
+│ ASK                                    │ 0.54              │
+│ Nitroplus                              │ 0.36              │
+│ fonfun                                 │ 0.36              │
+│ Warashi                                │ 0.36              │
+│ Visco                                  │ 0.36              │
+│ Technos Japan Corporation              │ 0.36              │
+│ Sold Out                               │ 0.36              │
+│ Saurus                                 │ 0.36              │
+│ Revolution (Japan)                     │ 0.36              │
+│ RED Entertainment                      │ 0.36              │
+│ Quintet                                │ 0.36              │
+│ Plenty                                 │ 0.36              │
+│ Phoenix Games                          │ 0.36              │
+│ Mycom                                  │ 0.36              │
+│ Mirai Shounen                          │ 0.36              │
+│ Masque Publishing                      │ 0.36              │
+│ Marvelous Games                        │ 0.36              │
+│ Lighthouse Interactive                 │ 0.36              │
+│ King Records                           │ 0.36              │
+│ Karin Entertainment                    │ 0.36              │
+│ Introversion Software                  │ 0.36              │
+│ Imageworks                             │ 0.36              │
+│ Graphsim Entertainment                 │ 0.36              │
+│ Giza10                                 │ 0.36              │
+│ Giga                                   │ 0.36              │
+│ Gaga                                   │ 0.36              │
+│ GOA                                    │ 0.36              │
+│ Codemasters Online                     │ 0.36              │
+│ UIG Entertainment                      │ 0.18              │
+│ Takuyo                                 │ 0.18              │
+│ Stainless Games                        │ 0.18              │
+│ Rain Games                             │ 0.18              │
+│ Piacci                                 │ 0.18              │
+│ Paradox Development                    │ 0.18              │
+│ Otomate                                │ 0.18              │
+│ Ongakukan                              │ 0.18              │
+│ New World Computing                    │ 0.18              │
+│ Naxat Soft                             │ 0.18              │
+│ Michaelsoft                            │ 0.18              │
+│ Media Entertainment                    │ 0.18              │
+│ Inti Creates                           │ 0.18              │
+│ Interworks Unlimited, Inc.             │ 0.18              │
+│ Interchannel-Holon                     │ 0.18              │
+│ Genterprise                            │ 0.18              │
+│ Epic Games                             │ 0.18              │
+│ EON Digital Entertainment              │ 0.18              │
+│ Commseed                               │ 0.18              │
+│ Boost On                               │ 0.18              │
+│ Ascaron Entertainment                  │ 0.18              │
+│ Publisher                              │ 0.0               │
+└────────────────────────────────────────┴───────────────────┘
